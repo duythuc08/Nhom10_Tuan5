@@ -1,1 +1,2 @@
 Hello World
+10 điểm phân tích thiết kế hệ thống
