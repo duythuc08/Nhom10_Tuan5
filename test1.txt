@@ -1,1 +1,5 @@
+
 Đã làm xong câu 1 phân biệt các loại reset
+Hello World
+10 điểm phân tích thiết kế hệ thống
+
