@@ -1,2 +1,3 @@
 lam merge
 update lan 1
+update lan 2
