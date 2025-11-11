@@ -2,3 +2,5 @@ lam merge
 update lan 1
 update lan 2
 update lan 3
+
+toi se lam cherry-pick
